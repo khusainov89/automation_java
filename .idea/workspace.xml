@@ -1,17 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e53769cd-876e-4bab-92db-bfd50a3c3bab" name="Changes" comment="" />
+    <list default="true" id="e53769cd-876e-4bab-92db-bfd50a3c3bab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java2/Car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java2/Car/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java2/Car/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java2/Car/Steering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java2/Car/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java2/Car/Wheel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java2/Rect/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java2/Rect/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java2/Robot/CoffeRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java2/Robot/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java2/Robot/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java2/Robot/RobotCoocker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java2/Robot/RobotDancer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2IU7fioxMRAtVbxFNSu1X53zDJw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,9 +63,62 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Car" />
+      <recent name="Rect" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Car.Main">
+    <configuration name="Car.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Car.Main" />
+      <module name="automation_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rect.Main" />
+      <module name="automation_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Robot.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Robot.Main" />
+      <module name="automation_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Car.Main" />
+        <item itemvalue="Application.Robot.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +129,16 @@
       <updated>1670224414056</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
